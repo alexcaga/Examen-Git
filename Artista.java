@@ -1,6 +1,5 @@
 package evf.javadoc.original;
 // Nombre: Álex Carpio
-// Soy rama_alex
 public class Artista {
     String nombreArtista;
     public Artista(String nombreArtista) {
